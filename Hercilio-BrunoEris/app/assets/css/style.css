@@ -1,0 +1,62 @@
+.logoCompany img{
+    width: 50px;
+    margin: auto;
+    float: left;
+    margin-right: 10px;
+}
+.brand-main {
+  margin-top: 2px;
+}
+.brand-pao {
+    width: 30px;
+    height: 30px;
+}
+.brand-img-company {
+  max-width: 300px;
+  max-height: 300px;
+}
+.user-avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50px;
+}
+.user-search {
+    margin-top: 19px;
+}
+.empresa-txt {
+  color: #f39c12 !important;
+}
+.cliente-txt {
+  color: #18bc9c !important;
+}
+.bg-index {
+  opacity: 0.8;
+  background-color: #fafafa;
+}
+.pao {
+  font-size: 50px;
+}
+.media-bar {
+  max-width: 50px;
+}
+.profile-avatar{
+    width: 50%;
+}
+#avatarInput{
+  margin: auto;
+}
+.alert-modal{
+    margin-bottom: 0;
+}
+/*
+#output{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+#output .alert{
+    width: 100%;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+*/

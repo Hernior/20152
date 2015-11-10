@@ -1,0 +1,30 @@
+[
+    {
+        "id": "165112",
+        "nome": "Palato",
+        "telefone": "82-33240918",
+        "longitude": "-35.7467",
+        "latitude": "-9.617817"
+    },
+    {
+        "id": "165113",
+        "nome": "Pãozinho Pimpão",
+        "telefone": "82-33240918",
+        "longitude": "-35.745983",
+        "latitude": "-9.616417"
+    },
+    {
+        "id": "165114",
+        "nome": "Pão do João",
+        "telefone": "82-33240918",
+        "longitude": "-35.745068",
+        "latitude": "-9.614516"
+    },
+    {
+        "id": "165115",
+        "nome": "Parapapão",
+        "telefone": "82-33240918",
+        "longitude": "-35.745865",
+        "latitude": "-9.613116"
+    }
+]
